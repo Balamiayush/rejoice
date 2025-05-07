@@ -114,7 +114,7 @@ const Footer = () => {
 
         <div className="footer-sec-right  md:w-2/6 flex flex-col md:flex-row md:justify-between items-end md:items-start ">
         <h5 className="md:text-xl leading-tight font-medium text-offwhite ">biz@rejoice.com</h5>
-        <h5 className="md:text-xl leading-tight font-medium text-offwhite">Created by Peyush nuwal</h5>
+        <h5 className="md:text-xl leading-tight font-medium text-offwhite">Created by Aayush.Dev</h5>
         </div>
     </div>
       <div className="w-full h-1/2  mt-5">
